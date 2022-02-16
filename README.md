@@ -64,3 +64,17 @@ BGBBGB
 Here are two possible solutions for Sample 0 (left) and Sample 1 (right):
 
 ![image2](image2.png)
+
+```
+    /*
+     * Complete the 'twoPluses' function below.
+     *
+     * The function is expected to return an INTEGER.
+     * The function accepts STRING_ARRAY grid as parameter.
+     */
+
+    public static int twoPluses(List<string> grid)
+    {
+
+    }
+```
